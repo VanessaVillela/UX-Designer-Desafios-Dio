@@ -1,4 +1,4 @@
-# UX Designer - Desafio
+# UX Designer - Desafios - Dio
 
 Aqui você acompanha todas as minhas etapas dos desafios do Curso UX Designer da Dio.
 

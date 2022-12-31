@@ -1,4 +1,4 @@
-# UX Designer - Desafio
+# UX Designer - Desafios - Dio
 
 Aqui você acompanha todas as minhas etapas dos desafios do Curso UX Designer da Dio.
 
@@ -16,4 +16,7 @@ Criação do primeiro Design System básico referente ao wareframe.
 Neste desafio, escolhi uma paleta de cores, fiz a criação de um logo básico para que pudesse desenvolver o Design System como se fosse para uma empresa real.
 Assim consegui desenvolver a parte das cores, botões, ícones , tipográfia e fonte.
 Foram utilizadas as ferramentas Photoshop  para a criação do documento e o coolors.co para a escolha das cores e verificação de contraste das mesmas.
+
+![Desafio-02 -Design System](https://user-images.githubusercontent.com/61437586/209561631-7d782ff6-c964-467c-92cc-83aab221adef.png)
+
 

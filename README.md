@@ -21,8 +21,11 @@ Foram utilizadas as ferramentas Photoshop  para a criação do documento e o coo
 
 ## Desafio 03
 Neste desafio foi criado um Protótipo para um app mobile.
+
 Ele se trata de um app para adoção de animais.
+
 Foram criados wireframes, design e o protótipo utilizando a ferramenta Figma. 
+
 Todo Wireframe foi inspirado pelo wireframe referente as aulas e layout do professor Rodrigo pela Dio.
 
 Pretendo continuar desenvolvendo ele com todas as paginas necessárias, unir o UX/UI, Front End e Back End para tornar esse projeto real.
